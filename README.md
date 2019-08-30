@@ -8,10 +8,10 @@ pipelined RISC-V processor.
 
 Files for the workshop are:
 
-[workshop.odt](workshop.odt) The tutorial instructions for the workshop.
-[slides.odp](slides.odp) Slides for the talk prior to the workshop (OSHCamp
+* [workshop.odt](workshop.odt) The tutorial instructions for the workshop.
+* [slides.odp](slides.odp) Slides for the talk prior to the workshop (OSHCamp
 Saturday).
-[slides-notes.odt](slides-notes.odt) Notes accompanying the slides.
+* [slides-notes.odt](slides-notes.odt) Notes accompanying the slides.
 
 ## Slack
 
@@ -20,6 +20,14 @@ wish to start or complete the workshop following OSHCamp.
 
 It is at
 [https://oshcampri5cyworkshop.slack.com](https://oshcampri5cyworkshop.slack.com).
+
+## Basic Verilog Workshops
+
+If you need a more basic Verilog starting point, you may wish to work through:
+
+* [Intro to Verilator with Verilog](https://gmarkall.wordpress.com/teaching) -
+  uses cycle-accurate simulation.
+* [Chip Hack](http://chiphack.org) - Using the MyStorm FPGA board.
 
 ## Other documents
 
