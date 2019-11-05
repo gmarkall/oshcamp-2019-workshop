@@ -21,7 +21,7 @@ wish to start or complete the workshop following OSHCamp.
 It is at
 [https://oshcampri5cyworkshop.slack.com](https://oshcampri5cyworkshop.slack.com).
 
-Invite link: https://join.slack.com/t/oshcampri5cyworkshop/shared_invite/enQtNzQwODQxMTgxMDYwLWM1MzUwNGU0MmQ5ODU4NmVhMjJiNTExY2QyNzU1M2RlM2QzNmZhOWMwOGVlNjg0Y2I1OTFkNDIxZGU0M2IxYmE
+Invite link: https://join.slack.com/t/oshcampri5cyworkshop/shared_invite/enQtODI1MDE2MTg3ODYyLThiMDUwMDdkMGRlN2I4ODVkMzAxMDI4ZGRhY2ZlMWI2NTBlZDc4MzA5MjNlMjMwZDJhOTZkNzRmMjdmYzMzYjA
 
 ## Basic Verilog Workshops
 
